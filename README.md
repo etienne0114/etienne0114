@@ -118,8 +118,7 @@ Foundation knowledge in modern mobile development with Flutter
 I'm always open to collaboration, interesting projects, and connecting with fellow developers!
 
 - 🌐 **GitHub**: [@etienne0114](https://github.com/etienne0114)
-- 📧 **Email**: [etienne0114@example.com](mailto:etienne0114@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/etienne0114](https://www.linkedin.com/in/etienne0114)
+- 📧 **Email**: etiennetuyihamye@gmail.com
 - 🐦 **Twitter**: [@etienne0114](https://twitter.com/etienne0114)
 
 ---
