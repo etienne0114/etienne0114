@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Edison%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=40&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Etienne%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=40&fontColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236">
+  <a href="https://www.linkedin.com/in/etienne-tuyihamye-864565417">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/codeWithEdison">
+  <a href="https://github.com/etienne0114">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:etiennetuyihamye@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
  
-  <img src="https://komarev.com/ghpvc/?username=codeWithEdison&color=00C4CC&style=for-the-badge" alt="Profile views" />
-  <img src="https://user-badge.committers.top/rwanda_public/codeWithEdison.svg)](https://user-badge.committers.top/rwanda_public/codeWithEdison" alt="top user  badge" />
+  <img src="https://komarev.com/ghpvc/?username=etienne0114&color=00C4CC&style=for-the-badge" alt="Profile views" />
+  <img src="https://user-badge.committers.top/rwanda_public/codeWithEdison.svg)](https://user-badge.committers.top/rwanda_public/etienne0114" alt="top user  badge" />
 </div>
 
 <div align="center">
