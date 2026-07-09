@@ -87,38 +87,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker,git" />
 </div>
 
-<h2 align="center">📚 Other Notable Projects</h2>
-
-### Web Development
-- **[WEB-DESIGN](https://github.com/etienne0114/WEB-DISGIN)** - HTML/CSS foundations for web design
-- **[Web Week 3](https://github.com/etienne0114/web_week3)** - CSS integration exercises
-- **[My First Code](https://github.com/etienne0114/my-first-code)** - Early programming journey
-- **[Papias](https://github.com/etienne0114/papias-)** - TypeScript web project
-
-### Mobile Development (Flutter/Dart)
-- **[David App](https://github.com/etienne0114/david_app)** - Flutter mobile application
-- **[Study App](https://github.com/etienne0114/studyApp)** - Educational mobile app
-- **[StudyBuddy System](https://github.com/etienne0114/StudyBuddy-System)** - Collaborative learning platform
-- **[ALS](https://github.com/etienne0114/ALS)** - Dart application
-- **[Flutter Work](https://github.com/etienne0114/Flutter_work)** - Mobile development assignments
-- **[Week 4 OOP](https://github.com/etienne0114/week4_OOP1)** - Object-oriented programming in Dart
-- **[Dart Learning](https://github.com/etienne0114/Dart)** - Dart programming fundamentals
-
-### Python & Data Science
-- **[Python Learning Journey](https://github.com/etienne0114/python)** - Python course exercises and projects
-- **[API Hackathon](https://github.com/etienne0114/Apihackthon)** - API development competition
-
-### IoT & Hardware
-- **[IOT Temperature/Humidity/Smoke Detector](https://github.com/etienne0114/IOT)** - JavaScript-based IoT project with sensor integration
-
-### Data & Architecture
-- **[Database](https://github.com/etienne0114/Database)** - Database design and management
-
-### Learning & Assignments
-- **[PLP Hackathon](https://github.com/etienne0114/PLP_Hackathon)** - PowerLearn Project competition
-- **[PLP Basic Git Assignment](https://github.com/etienne0114/PLPBasicGitAssignment)** - Git fundamentals
-- **[M000 Assignment](https://github.com/etienne0114/m000-assignment)** - Academic coursework
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
