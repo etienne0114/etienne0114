@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Etienne%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=40&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Etienne%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,18 +7,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/etienne0114">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
   </a>
   <a href="mailto:etiennetuyihamye@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
  
   <img src="https://komarev.com/ghpvc/?username=etienne0114&color=00C4CC&style=for-the-badge" alt="Profile views" />
-  <img src="https://user-badge.committers.top/rwanda_public/codeWithEdison.svg)](https://user-badge.committers.top/rwanda_public/etienne0114" alt="top user  badge" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%7C+Blockchain+%7C+Healthcare+Tech;500%2B+Developers+Mentored" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;Web3+%26+Blockchain" width="100%"/>
 </div>
 
 <h2 align="center">🎯 Core Focus</h2>
@@ -50,9 +49,9 @@
 <kbd>
 <div align="center">
   <h3>📚 Knowledge Sharing</h3>
-  <b>Empowering 500+ developers through mentorship</b>
+  <b>Empowering developers through mentorship</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Mentored-500+_Developers-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mentorship-Open_Source-6C63FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Tech_Education-6C63FF?style=flat-square"/>
 </div>
 </kbd>&nbsp;&nbsp;
@@ -78,52 +77,52 @@
 
 </div>
 
-<h2 align="center">💼 Professional Impact</h2>
+<h2 align="center">💼 Featured Projects</h2>
 
 <div align="center">
 
 <kbd>
 <div align="center">
-  <h3>🏢 UR-AMS</h3>
-  <b>Enterprise Asset Management System</b>
+  <h3>🚀 Ndangira</h3>
+  <b>Full Stack Web Application</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Type-Enterprise_Management-00C4CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-TypeScript-00C4CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-TypeScript-00C4CC?style=for-the-badge&logoColor=white"/>
   <br><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <a href="https://github.com/etienne0114/ndangira-frontend">Frontend</a> | 
+  <a href="https://github.com/etienne0114/ndangira-backend">Backend</a>
   <br><br>
-  <i>✨ Multi-campus asset tracking & management solution</i>
+  <i>✨ Modern web application with TypeScript full stack</i>
 </div>
 </kbd>&nbsp;&nbsp;
 
 <kbd>
 <div align="center">
-  <h3>💊 Medistock</h3>
-  <b>Medical Stock Management System</b>
+  <h3>🏆 Umurava Hackathon</h3>
+  <b>Hackathon Project</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Type-Inventory_Management-2C98F0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-TypeScript-2C98F0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-TypeScript-2C98F0?style=for-the-badge&logoColor=white"/>
   <br><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <a href="https://github.com/etienne0114/umurava-hackthon">Frontend</a> | 
+  <a href="https://github.com/etienne0114/umurava-hackthon-backend">Backend</a>
   <br><br>
-  <i>📈 Optimized inventory control & request handling</i>
+  <i>🎯 Competitive hackathon submission with full stack</i>
 </div>
 </kbd>&nbsp;&nbsp;
 
 <kbd>
 <div align="center">
-  <h3>🔬 HIV-TB Co-infection Dashboard</h3>
-  <b>Advanced Disease Monitoring Platform</b>
+  <h3>🌍 Urungano</h3>
+  <b>Cross-Platform Application</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Type-Healthcare_Analytics-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-Dart-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-TypeScript-6C63FF?style=for-the-badge&logoColor=white"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <a href="https://github.com/etienne0114/urungano-frontend">Frontend</a> | 
+  <a href="https://github.com/etienne0114/urungano-backend">Backend</a>
   <br><br>
-  <i>🎯 Real-time analytics & predictive modeling</i>
+  <i>📱 Flutter & Node.js cross-platform solution</i>
 </div>
 </kbd>
 
@@ -132,31 +131,63 @@
 <h2 align="center">💻 Technology Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,java,php,solidity" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,python,java,php,dart" /><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,spring" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql" /><br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker,git" />
 </div>
 
+<h2 align="center">📚 Other Notable Projects</h2>
+
+### Web Development
+- **[WEB-DESIGN](https://github.com/etienne0114/WEB-DISGIN)** - HTML/CSS foundations for web design
+- **[Web Week 3](https://github.com/etienne0114/web_week3)** - CSS integration exercises
+- **[My First Code](https://github.com/etienne0114/my-first-code)** - Early programming journey
+- **[Papias](https://github.com/etienne0114/papias-)** - TypeScript web project
+
+### Mobile Development (Flutter/Dart)
+- **[David App](https://github.com/etienne0114/david_app)** - Flutter mobile application
+- **[Study App](https://github.com/etienne0114/studyApp)** - Educational mobile app
+- **[StudyBuddy System](https://github.com/etienne0114/StudyBuddy-System)** - Collaborative learning platform
+- **[ALS](https://github.com/etienne0114/ALS)** - Dart application
+- **[Flutter Work](https://github.com/etienne0114/Flutter_work)** - Mobile development assignments
+- **[Week 4 OOP](https://github.com/etienne0114/week4_OOP1)** - Object-oriented programming in Dart
+- **[Dart Learning](https://github.com/etienne0114/Dart)** - Dart programming fundamentals
+
+### Python & Data Science
+- **[Python Learning Journey](https://github.com/etienne0114/python)** - Python course exercises and projects
+- **[API Hackathon](https://github.com/etienne0114/Apihackthon)** - API development competition
+
+### IoT & Hardware
+- **[IOT Temperature/Humidity/Smoke Detector](https://github.com/etienne0114/IOT)** - JavaScript-based IoT project with sensor integration
+
+### Data & Architecture
+- **[Database](https://github.com/etienne0114/Database)** - Database design and management
+
+### Learning & Assignments
+- **[PLP Hackathon](https://github.com/etienne0114/PLP_Hackathon)** - PowerLearn Project competition
+- **[PLP Basic Git Assignment](https://github.com/etienne0114/PLPBasicGitAssignment)** - Git fundamentals
+- **[M000 Assignment](https://github.com/etienne0114/m000-assignment)** - Academic coursework
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeWithEdison&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithEtienne&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=etienne0114&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=etienne0114&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithEtienne&custom_title=Etienne's%20Contribution%20Graph&bg_color=0D1117&color=00C4CC&line=6C63FF&point=FFFFFF&hide_border=true" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=etienne0114&custom_title=Etienne's%20Contribution%20Graph&bg_color=0D1117&color=00C4CC&line=6C63FF&point=FFFFFF&area=true" alt="Contribution Graph"/>
 </div>
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/etienne-tuyihamye-864565417]">
+  <a href="https://www.linkedin.com/in/etienne-tuyihamye-864565417">
     <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codewithedison.github.io/codeWithEtienne-portifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/etienne0114">
+    <img src="https://img.shields.io/badge/GitHub_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
   </a>
   <a href="mailto:etiennetuyihamye@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
