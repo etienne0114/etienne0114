@@ -172,12 +172,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=etienne0114&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=etienne0114&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=etienne0114&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=etienne0114&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC&sideLabels=00C4CC&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=etienne0114&custom_title=Etienne's%20Contribution%20Graph&bg_color=0D1117&color=00C4CC&line=6C63FF&point=FFFFFF&area=true" alt="Contribution Graph"/>
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=etienne0114&custom_title=Etienne's%20Contribution%20Graph&bg_color=0D1117&color=00C4CC&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <h2 align="center">🤝 Let's Connect!</h2>
