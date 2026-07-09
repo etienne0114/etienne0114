@@ -77,56 +77,6 @@
 
 </div>
 
-<h2 align="center">💼 Featured Projects</h2>
-
-<div align="center">
-
-<kbd>
-<div align="center">
-  <h3>🚀 Ndangira</h3>
-  <b>Full Stack Web Application</b>
-  <br><br>
-  <img src="https://img.shields.io/badge/Frontend-TypeScript-00C4CC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-TypeScript-00C4CC?style=for-the-badge&logoColor=white"/>
-  <br><br>
-  <a href="https://github.com/etienne0114/ndangira-frontend">Frontend</a> | 
-  <a href="https://github.com/etienne0114/ndangira-backend">Backend</a>
-  <br><br>
-  <i>✨ Modern web application with TypeScript full stack</i>
-</div>
-</kbd>&nbsp;&nbsp;
-
-<kbd>
-<div align="center">
-  <h3>🏆 Umurava Hackathon</h3>
-  <b>Hackathon Project</b>
-  <br><br>
-  <img src="https://img.shields.io/badge/Frontend-TypeScript-2C98F0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-TypeScript-2C98F0?style=for-the-badge&logoColor=white"/>
-  <br><br>
-  <a href="https://github.com/etienne0114/umurava-hackthon">Frontend</a> | 
-  <a href="https://github.com/etienne0114/umurava-hackthon-backend">Backend</a>
-  <br><br>
-  <i>🎯 Competitive hackathon submission with full stack</i>
-</div>
-</kbd>&nbsp;&nbsp;
-
-<kbd>
-<div align="center">
-  <h3>🌍 Urungano</h3>
-  <b>Cross-Platform Application</b>
-  <br><br>
-  <img src="https://img.shields.io/badge/Frontend-Dart-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-TypeScript-6C63FF?style=for-the-badge&logoColor=white"/>
-  <br><br>
-  <a href="https://github.com/etienne0114/urungano-frontend">Frontend</a> | 
-  <a href="https://github.com/etienne0114/urungano-backend">Backend</a>
-  <br><br>
-  <i>📱 Flutter & Node.js cross-platform solution</i>
-</div>
-</kbd>
-
-</div>
 
 <h2 align="center">💻 Technology Stack</h2>
 
