@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Etienne%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Etienne%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=40&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,6 +9,9 @@
   <a href="https://github.com/etienne0114">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
   </a>
+  <a href="https://etienne-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:etiennetuyihamye@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -17,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;Web3+%26+Blockchain" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%26+Blockchain+Innovation;Enterprise+Solutions;Tech+Leadership" alt="Typing SVG" />
 </div>
 
 <h2 align="center">🎯 Core Focus</h2>
@@ -90,8 +93,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=etienne0114&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=etienne0114&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC&sideLabels=00C4CC&dates=FFFFFF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=etienne0114&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=etienne0114&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC&sideLabels=00C4CC" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -106,6 +109,9 @@
   </a>
   <a href="https://github.com/etienne0114">
     <img src="https://img.shields.io/badge/GitHub_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+  </a>
+  <a href="https://etienne-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:etiennetuyihamye@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
